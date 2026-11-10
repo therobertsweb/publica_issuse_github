@@ -1,0 +1,19 @@
+Nine projects from the Meta AI Developer Hackathon 2026 raise serious questions about originality. We found similar GitHub repositories and pre-existing technologies.
+
+**Projects requiring investigation:**
+
+1. Playtest Agent: https://github.com/Midknight56/playtest-agent
+2. Tessa: https://github.com/Rishi943/tessa
+3. oqed: https://github.com/IgnacioSearles/oqed
+4. Synthexis: https://github.com/smashburger-dev/synthexis
+5. Gatekeeper: https://github.com/lb2002/gatekeeper
+6. ControlAnything: https://github.com/Apolotary/controlanything
+7. Nemesis: https://github.com/divagr18/nemesis
+8. Video2URDF: https://github.com/SungHyunC/video2urdf
+9. Basement Ready: https://github.com/Dbar2/basement-ready
+
+**Does integrating AI into an existing concept qualify as genuine innovation?**
+
+These nine projects have similarities to existing work, but copying has not been established through source-code analysis.
+
+The question remains: **Were the hackathon judges rewarding original innovation or AI integrations of existing technologies?**
